@@ -1,10 +1,14 @@
-﻿Task 1: Simple Registration Form Using Tkinter in Python
+﻿Task 1: 
+
+Simple Registration Form Using Tkinter in Python
 This is a simple GUI-based registration form application built using Python's Tkinter library. The form collects user details such as full name, email ID, gender, country, and programming languages known. Once the user submits the form, their details are displayed in a message box for confirmation, and if confirmed, the details are saved to a local file named registration_details.txt.
+
 Features
 * User-friendly graphical interface.
 * Fields for full name, email ID, gender, country, and programming languages.
 * Data validation and confirmation before saving.
 * Saves user details to a local file.
+
 How It Works
 1. GUI Layout:
 o The main window is created with a title "Registration Form" and a fixed size of 600x400 pixels.

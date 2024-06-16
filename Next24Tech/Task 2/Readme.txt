@@ -1,4 +1,6 @@
-# Cricket Bot
+Task 2
+Building a Chatbot Using Python: Your next task involves building a chatbot using Python. You will explore various libraries and techniques to develop a responsive and interactive chatbot that can engage with users effectively.
+
 
 Welcome to Cricket Bot! This application is a simple chatbot designed to answer cricket-related questions. It uses a fuzzy string matching algorithm to find the best possible answer from a predefined set of question-answer pairs.
 
