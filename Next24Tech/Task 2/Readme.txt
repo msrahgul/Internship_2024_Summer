@@ -14,7 +14,7 @@ Welcome to Cricket Bot! This application is a simple chatbot designed to answer 
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/cricket-bot.git
+    git clone https://github.com/msrahgul/cricket-bot.git
     cd cricket-bot
     ```
 
