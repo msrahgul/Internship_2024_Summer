@@ -10,26 +10,6 @@ Welcome to Cricket Bot! This application is a simple chatbot designed to answer 
 - **Chat History Management**: Allows users to clear the chat history.
 - **Suggestions**: Provides suggestions for similar questions if an exact match isn't found.
 
-## Installation
-
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/msrahgul/cricket-bot.git
-    cd cricket-bot
-    ```
-
-2. **Install the required dependencies**:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3. **Ensure you have the necessary data file**:
-    - Create a `cricket_data.txt` file with question-answer pairs in the following format:
-      ```
-      What is the highest score in cricket? 400 by Brian Lara.
-      Who won the 2019 Cricket World Cup? England.
-      ```
-
 ## Usage
 
 1. **Run the application**:
