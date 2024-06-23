@@ -14,12 +14,7 @@ Welcome to Cricket Bot! This application is a simple chatbot designed to answer 
 
 ## Usage
 
-1. **Run the application**:
-    ```sh
-    python cricket_bot.py
-    ```
-
-2. **Interact with the bot**:
+1. **Interact with the bot**:
     - Type your cricket-related questions into the input field and press Enter or click the "Send" button.
     - To clear the chat history, click the "Clear" button.
     - To exit the application, type `exit` and press Enter.
